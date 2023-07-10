@@ -12,7 +12,7 @@ The project was built using Python.
 
 ## Contents
 
-- Detailed analysis of communication protocols, such as TCP/IP, HTTP, SSH, and more, with respect to sniffing vulnerabilities.
+- Detailed analysis of communication protocols, such as TCP/IP, HTTP, UDP, with respect to sniffing vulnerabilities.
 - Implementation of practical experiments and simulations to demonstrate and validate the impact of sniffing attacks on communication channels.
 - Development of countermeasures and protective measures.
 - Results and findings showcasing the effectiveness of the implemented safeguards and recommendations for enhancing security.
